@@ -12698,7 +12698,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/littelfuse-inc/0448005-MR/1211090"
 			(at 130.81 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -12720,7 +12720,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0448005.MR"
 			(at 130.81 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -13434,6 +13434,28 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/texas-instruments/TPS22965DSGT/3661875?s=N4IgTCBcDaICoAUDKYwE4BsBWAIkg4nCALoC%2BQA"
+			(at 229.87 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "TPS22965DSGT"
+			(at 229.87 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "7"

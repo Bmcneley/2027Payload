@@ -7498,6 +7498,28 @@
 				)
 			)
 		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/744325240/1638573?s=N4IgTCBcDaIOwBYEGYwFYwIAwgLoF8g"
+			(at 205.74 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "744325240"
+			(at 205.74 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e866d463-d1a0-462d-ab22-e283ebb11357")
 		)
@@ -10446,6 +10468,28 @@
 				(justify bottom)
 			)
 		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/texas-instruments/TPS543620RPYR/13563030?s=N4IgTCBcDaICoAUDKBWALAZgGxgAwCUEBNfAYThAF0BfIA"
+			(at 160.02 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "TPS543620RPYR"
+			(at 160.02 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "15a8abd1-f67d-433f-9180-a27a216dd112")
 		)
@@ -11263,6 +11307,28 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AO4407A/1855794"
+			(at 64.77 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "AO4407A"
+			(at 64.77 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "6"
