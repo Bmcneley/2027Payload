@@ -1,0 +1,46 @@
+Quantity,Manufacture Part Number,Manufacturer,Package,Description,Designator,LCSC Part Number,Notes
+1,ESP32-S3-WROOM-1-N8R8,Espressif,Module,"ESP32-S3 WiFi/BLE module, 8MB flash + 8MB PSRAM",U1,C2913201,
+1,TPS543620RPYR,Texas Instruments,VQFN-15 (RPY),"6A synchronous buck converter, 4-18V in",U2,,Not stocked at LCSC as of this writing - DigiKey/Mouser
+1,TPS22965DSGT,Texas Instruments,WSON-8-EP 2x2,"Load switch, 5.7V 6A, adj. slew rate",U3,C347592,
+1,BNO085,CEVA / Hillcrest,LGA-28,9-DOF IMU with sensor fusion,U4,C5189642,
+1,USBLC6-2SC6,STMicroelectronics,SOT-23-6,USB 2.0 ESD protection array,U6,C7519,
+1,TLV75533PDBVR,Texas Instruments,SOT-23-5,3.3V 500mA LDO,U7,C404027,
+1,TPS2113ADRBR,Texas Instruments,VSON-8 (DRB),"Autoswitching power mux, 2.8-5.5V",U9,C354512,
+1,SAM-M10Q-00B,u-blox,Module 15.5x15.5,GNSS module with integrated patch antenna,U11,C5443880,
+1,BMP581,Bosch Sensortec,LGA-10,Barometric pressure sensor,U12,C5362283,
+1,AO4407A,Alpha & Omega,SOIC-8,"P-channel MOSFET -30V -12A, reverse polarity protection",Q2,C16072,
+1,BZT52C10,Various (e.g. Changjiang),SOD-123,"10V zener, 500mW - Q2 gate clamp",D2,,Verify value/type from your symbol; MMSZ5240B is an equivalent
+1,KT-0603G,Hubei KENTO,0603,"Green LED, 20mA",D1,,Any 0603 LED; pick colour you want
+1,SWPA6045S2R2MT,Sunlord,6.0x6.0x4.5mm,"2.2uH shielded power inductor, 6.4A Isat",L1,,Schematic says 2.4uH - 2.2uH is nearest standard. Needs Isat > 8A ideally
+1,0603SFH500F/32-2,Bel Fuse,1206,5A fast-acting SMD fuse,F1,,Or a 5A polyfuse / blade holder depending on your footprint
+1,TYPE-C-31-M-12,Korean Hroparts Elec,SMD 16P,"USB Type-C receptacle, USB 2.0, 16 pin",J1,C165948,
+2,SM04B-SRSS-TB(LF)(SN),JST,SH 1.0mm 4P side entry,STEMMA QT / Qwiic connector,"J6,J7",C160404,
+1,B4B-XH-A(LF)(SN),JST,XH 2.5mm 4P THT,5V JST power connector,J8,C144395,Swap to S4B-XH-SM4-TB (C161861) if you want SMD
+4,PH1-03-UA,Ckmtw,2.54mm 1x3 header,3-pin male header - servo x3 + UART,"J3,J4,J5,J11",,Cut from a strip; 1x40 strip is cheaper
+1,PZ254V-11-06P,Ckmtw,2.54mm 2x3 header,"2x3 male header, GPIO breakout",J10,,
+2,,,Solder pad,VBAT_RAW / VBAT_FUSED test pads - no part to buy,"J2,J9",,Do not populate
+2,TS-1187A-B-A-B,XKB Connection,SMD 3x4x2mm,Tactile push button - BOOT / EN,"SW1,SW2",C318884,
+1,,,Pad,Test point 5V_SW - no part to buy,TP1,,Do not populate
+4,,,M3,Mounting hole - no part to buy,"H1,H2,H3,H4",,Do not populate
+2,RC0603FR-075K1L,YAGEO,0603,5.1k 1% 1/10W - USB-C CC pulldowns,"R7,R8",,
+9,RC0603FR-0710KL,YAGEO,0603,10k 1% 1/10W - pullups / PGOOD / feedback network,"R9,R14,R19,R20,R24,R27,R28,R29,R35",,
+2,RC0603FR-074K7L,YAGEO,0603,4.7k 1% 1/10W - I2C pullups,"R17,R18",,
+1,RC0603FR-07100RL,YAGEO,0603,100R 1% 1/10W - IO0 series,R10,,
+1,RC0603FR-07332RL,YAGEO,0603,332R 1% 1/10W - TPS2113A ILIM,R15,,
+1,RC0603FR-0791KL,YAGEO,0603,91k 1% 1/10W,R16,,
+3,RC0603FR-07100KL,YAGEO,0603,100k 1% 1/10W,"R21,R22,R36",,
+1,RC0603FR-0743KL,YAGEO,0603,43k 1% 1/10W - VBAT sense divider,R23,,
+1,RC0603FR-0711K3L,YAGEO,0603,11.3k 1% 1/10W - buck FB divider bottom,R25,,
+1,RC0603FR-0724K3L,YAGEO,0603,24.3k 1% 1/10W - buck FB divider top,R26,,
+3,RC0603FR-07330RL,YAGEO,0603,330R 1% 1/10W - servo signal series,"R30,R32,R33",,
+1,RC0603FR-07300RL,YAGEO,0603,300R 1% 1/10W - status LED,R31,,
+1,RC0603FR-0790K9L,YAGEO,0603,90.9k 1% 1/10W,R34,,
+15,CL10B104KB8NNNC,Samsung,0603,100nF 50V X7R - decoupling,"C18,C19,C20,C21,C22,C23,C24,C25,C26,C28,C31,C34,C42,C43,C45",,
+5,CL10B105KB8NNNC,Samsung,0603,1uF 50V X7R,"C12,C13,C15,C16,C17",,
+1,CL10B103KB8NNNC,Samsung,0603,10nF 50V X7R - TPS22965 CT slew rate,C46,,
+1,CL10C150JB8NNNC,Samsung,0603,15pF 50V C0G - buck BOOT/FB,C35,,
+5,CC0603KRX5R8BB475,YAGEO,0603,"4.7uF 25V X5R 10% - buck input bank (VBAT, 8.4V max)","C30,C32,C33,C37,C38",C326580,~2.7uF each after DC bias at 8.4V; 5 in parallel is still fine for the TPS543620 input
+4,GRM188R61E106MA73D,Murata,0603,10uF 25V X5R - VBUS / 5V_LOGIC / 3V3 / GPS VCC,"C5,C14,C27,C29",C91606,25V rating keeps most of the capacitance at 3.3-5V
+3,GRT188R61A226ME13D,Murata,0603,22uF 10V X5R - load switch input + 5V_SW output bulk,"C40,C41,C44",C126630,Was 220uF/22uF/100uF. ~10uF effective each at 5V. Beats a 47uF/6.3V 0603 here - less DC bias derating despite the lower nominal
+2,GRM188R60J476ME01D,Murata,0603,47uF 6.3V X5R - buck output,"C36,C39",C3848273,~8uF each after DC bias at 5V (~16uF total vs 94uF nominal). This pair matters more than C40/C44 for Pi load steps - consider 1210 here if you change any footprint
+1,RVT1E471M1010,ROQANG,CP_Elec_10x10,470uF 25V aluminium electrolytic - +5V servo rail bulk,C2,C72518,
