@@ -5565,7 +5565,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60J476ME15D/5877410"
 			(at 241.3 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5587,7 +5587,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R60J476ME15D"
 			(at 241.3 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5679,7 +5679,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 233.68 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5701,7 +5701,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 233.68 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5992,7 +5992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 27.432 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -6025,7 +6025,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212"
 			(at 29.21 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6047,7 +6047,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-074K7L"
 			(at 29.21 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6543,7 +6543,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 134.62 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6565,7 +6565,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 134.62 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6624,7 +6624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 154.432 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -6657,7 +6657,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 156.21 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -6679,7 +6679,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 156.21 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -6772,7 +6772,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 123.19 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6794,7 +6794,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 123.19 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6853,7 +6853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 127.762 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -6886,7 +6886,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RT0603BRD0711K3L/1072211"
 			(at 129.54 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6908,7 +6908,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RT0603BRD0711K3L"
 			(at 129.54 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7045,7 +7045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 17.272 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -7078,7 +7078,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 19.05 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -7100,7 +7100,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 19.05 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -7192,7 +7192,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E475KE11D/3900465"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7214,7 +7214,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E475KE11D"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7385,7 +7385,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 190.5 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -7407,7 +7407,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 190.5 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -7602,7 +7602,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 30.48 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -7624,7 +7624,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 30.48 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -7951,7 +7951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 32.512 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -7984,7 +7984,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212"
 			(at 34.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8006,7 +8006,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-074K7L"
 			(at 34.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8144,7 +8144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.782 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -8177,7 +8177,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 162.56 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8199,7 +8199,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 162.56 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8523,7 +8523,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E475KE11D/3900465"
 			(at 204.47 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8545,7 +8545,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E475KE11D"
 			(at 204.47 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8839,7 +8839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 37.592 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -8872,7 +8872,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 39.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8894,7 +8894,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 39.37 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8986,7 +8986,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60J476ME15D/5877410"
 			(at 252.73 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9008,7 +9008,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R60J476ME15D"
 			(at 252.73 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9179,7 +9179,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 121.92 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9201,7 +9201,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 121.92 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9260,7 +9260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 22.352 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -9293,7 +9293,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 24.13 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9315,7 +9315,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 24.13 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9853,7 +9853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 190.5 95.758 90)
 			(hide yes)
 			(show_name no)
@@ -9886,7 +9886,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 190.5 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9908,7 +9908,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 190.5 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9967,7 +9967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 55.372 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -10000,7 +10000,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07100KL/726889"
 			(at 57.15 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -10022,7 +10022,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07100KL"
 			(at 57.15 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -10192,7 +10192,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 104.14 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10214,7 +10214,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 104.14 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10306,7 +10306,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 125.73 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10328,7 +10328,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 125.73 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10574,7 +10574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 226.568 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -10607,7 +10607,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-9092ELF/3784211"
 			(at 224.79 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10629,7 +10629,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CR0603-FX-9092ELF"
 			(at 224.79 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10688,7 +10688,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 226.568 127 90)
 			(hide yes)
 			(show_name no)
@@ -10721,7 +10721,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 224.79 127 0)
 			(hide yes)
 			(show_name no)
@@ -10743,7 +10743,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 224.79 127 0)
 			(hide yes)
 			(show_name no)
@@ -11145,7 +11145,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E475KE11D/3900465"
 			(at 118.11 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11167,7 +11167,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E475KE11D"
 			(at 118.11 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11430,7 +11430,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/CC0603JRNPO9BN150/302794"
 			(at 213.36 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -11452,7 +11452,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CC0603JRNPO9BN150"
 			(at 213.36 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -11589,7 +11589,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 117.602 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -11622,7 +11622,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0724K3L/727078"
 			(at 119.38 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11644,7 +11644,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-0724K3L"
 			(at 119.38 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11814,7 +11814,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E106MA73D/3900497"
 			(at 226.06 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11836,7 +11836,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E106MA73D"
 			(at 226.06 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11929,7 +11929,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 41.91 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -11951,7 +11951,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 41.91 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -12010,7 +12010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 126.492 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -12043,7 +12043,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 128.27 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12065,7 +12065,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 128.27 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12157,7 +12157,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E475KE11D/3900465"
 			(at 87.63 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12179,7 +12179,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E475KE11D"
 			(at 87.63 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12518,7 +12518,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E475KE11D/3900465"
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12540,7 +12540,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E475KE11D"
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)

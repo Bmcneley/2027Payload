@@ -9102,6 +9102,28 @@
 				)
 			)
 		)
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-PH-SM4-TBT/768445?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336967819&gbraid=0AAAAADrbLlgmYn7ADMfh-QFAIWPqm5QcW&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXyYpx2z2Oc2FYqUwgyU33djUfwtMF-z70kyM1lpnv5d06dyOWMWF7saAgp_EALw_wcB"
+			(at 121.92 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "B3B-PH-SM4-TBT"
+			(at 121.92 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "8abd1781-b5bc-491e-b120-4237dba7c516")
 		)
@@ -9186,7 +9208,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 189.23 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9208,7 +9230,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 189.23 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9299,7 +9321,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PRPC003DAAN-RC/2775291"
 			(at 44.45 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -9321,7 +9343,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "PRPC003DAAN-RC"
 			(at 44.45 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -9703,7 +9725,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 198.628 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -9736,7 +9758,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0791KL/726841"
 			(at 196.85 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -9758,7 +9780,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0791KL"
 			(at 196.85 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10217,7 +10239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 196.85 149.352 90)
 			(hide yes)
 			(show_name no)
@@ -10250,7 +10272,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07330RL/727162"
 			(at 196.85 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -10272,7 +10294,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07330RL"
 			(at 196.85 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -10752,7 +10774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 250.19 94.488 90)
 			(hide yes)
 			(show_name no)
@@ -10785,7 +10807,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-3320ELF/3783952"
 			(at 250.19 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -10807,7 +10829,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CR0603-FX-3320ELF"
 			(at 250.19 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -10899,7 +10921,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A226MO7JZNC/7320581"
 			(at 181.61 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10921,7 +10943,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL10A226MO7JZNC"
 			(at 181.61 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11011,7 +11033,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E106MA73D/3900497"
 			(at 264.16 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11033,7 +11055,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E106MA73D"
 			(at 264.16 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11248,7 +11270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 18.542 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -11281,7 +11303,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/AC0603FR-135K1L/14008356"
 			(at 20.32 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11303,7 +11325,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "AC0603FR-135K1L"
 			(at 20.32 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12027,7 +12049,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/taiyo-yuden/UMK107AB7105KA-T/3660085"
 			(at 271.78 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12049,7 +12071,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "UMK107AB7105KA-TT"
 			(at 271.78 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12081,7 +12103,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12474,7 +12496,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 27.432 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -12507,7 +12529,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/AC0603FR-135K1L/14008356"
 			(at 29.21 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12529,7 +12551,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "AC0603FR-135K1L"
 			(at 29.21 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12779,7 +12801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 196.85 131.572 90)
 			(hide yes)
 			(show_name no)
@@ -12812,7 +12834,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07330RL/727162"
 			(at 196.85 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -12834,7 +12856,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07330RL"
 			(at 196.85 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -13005,7 +13027,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E106MA73D/3900497"
 			(at 148.59 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -13027,7 +13049,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E106MA73D"
 			(at 148.59 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -13560,7 +13582,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 196.85 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -13582,7 +13604,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 196.85 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -13641,7 +13663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 270.002 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -13674,7 +13696,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
 			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -13696,7 +13718,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0710KL"
 			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -13755,7 +13777,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 196.85 140.462 90)
 			(hide yes)
 			(show_name no)
@@ -13788,7 +13810,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07330RL/727162"
 			(at 196.85 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -13810,7 +13832,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07330RL"
 			(at 196.85 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -14090,7 +14112,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C103K5RACTU/411090"
 			(at 250.19 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14112,7 +14134,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C103K5RACTU"
 			(at 250.19 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14248,7 +14270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 184.15 156.972 90)
 			(hide yes)
 			(show_name no)
@@ -14281,7 +14303,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07330RL/727162"
 			(at 184.15 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -14303,7 +14325,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07330RL"
 			(at 184.15 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -14483,7 +14505,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 207.518 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -14516,7 +14538,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07100KL/726889"
 			(at 205.74 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -14538,7 +14560,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07100KL"
 			(at 205.74 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -14755,7 +14777,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 243.84 136.652 90)
 			(hide yes)
 			(show_name no)
@@ -14788,7 +14810,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07100RL/726888"
 			(at 243.84 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -14810,7 +14832,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07100RL"
 			(at 243.84 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -15076,7 +15098,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15215,7 +15237,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A226MO7JZNC/7320581"
 			(at 261.62 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -15237,7 +15259,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL10A226MO7JZNC"
 			(at 261.62 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -15296,7 +15318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 83.82 115.062 90)
 			(hide yes)
 			(show_name no)
@@ -15329,7 +15351,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/panasonic-industry/ERJ-3GEYJ301V/29175"
 			(at 83.82 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -15351,7 +15373,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ERJ-3GEYJ301V"
 			(at 83.82 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -15835,7 +15857,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/taiyo-yuden/UMK107AB7105KA-T/3660085"
 			(at 194.31 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -15857,7 +15879,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "UMK107AB7105KA-TT"
 			(at 194.31 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -16073,7 +16095,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 58.928 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -16106,7 +16128,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0743KL/726790"
 			(at 57.15 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -16128,7 +16150,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603JR-0743KL"
 			(at 57.15 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -16297,7 +16319,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MAL215097501E3/5635420"
 			(at 172.72 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -16319,7 +16341,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "MAL215097501E3"
 			(at 172.72 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -16486,7 +16508,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/taiyo-yuden/UMK107AB7105KA-T/3660085"
 			(at 194.31 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -16508,7 +16530,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "UMK107AB7105KA-TT"
 			(at 194.31 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -16601,7 +16623,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/harwin-inc/M20-9990345/3728227"
 			(at 212.09 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -16623,7 +16645,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "M20-9990345"
 			(at 212.09 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -16716,7 +16738,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 243.84 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -16738,7 +16760,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 243.84 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -16909,7 +16931,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.adafruit.com/product/4392"
 			(at 86.36 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -16931,7 +16953,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "2mm 4-pin Horizontal Connector - JST PH Compatible - 10 Pack - STEMMA"
 			(at 86.36 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17030,7 +17052,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/harwin-inc/M20-9990345/3728227"
 			(at 212.09 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -17052,7 +17074,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "M20-9990345"
 			(at 212.09 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -17336,7 +17358,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/taiyo-yuden/UMK107AB7105KA-T/3660085"
 			(at 83.82 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17358,7 +17380,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "UMK107AB7105KA-TT"
 			(at 83.82 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17448,7 +17470,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/taiyo-yuden/UMK107AB7105KA-T/3660085"
 			(at 30.48 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -17470,7 +17492,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "UMK107AB7105KA-TT"
 			(at 30.48 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -17562,7 +17584,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A226MO7JZNC/7320581"
 			(at 254 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -17584,7 +17606,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL10A226MO7JZNC"
 			(at 254 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -17677,7 +17699,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 43.18 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17699,7 +17721,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 43.18 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17792,7 +17814,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/harwin-inc/M20-9990345/3728227"
 			(at 193.04 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -17814,7 +17836,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "M20-9990345"
 			(at 193.04 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -18745,7 +18767,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/w-rth-elektronik/150080RS75000/4489918?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlg_IgFTr-Jf2-Qzqcnst6Cr2&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXzf10RXvAgokeAr4OZykvDAJWP_BtLDl093XGbOyg75n1v_aWA--1EaApExEALw_wcB"
 			(at 91.44 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18767,7 +18789,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "150080RS75000"
 			(at 91.44 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18937,7 +18959,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 139.7 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -18959,7 +18981,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 139.7 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -19068,7 +19090,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -19207,7 +19229,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594"
 			(at 269.24 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -19229,7 +19251,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "C0603C104K5RACTU"
 			(at 269.24 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -19633,7 +19655,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R61E106MA73D/3900497"
 			(at 44.45 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -19655,7 +19677,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "GRM188R61E106MA73D"
 			(at 44.45 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -19982,7 +20004,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/harwin-inc/M20-9990345/3728227"
 			(at 212.09 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -20004,7 +20026,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "M20-9990345"
 			(at 212.09 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -20066,7 +20088,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 39.37 99.568 90)
 			(hide yes)
 			(show_name no)
@@ -20099,7 +20121,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07100KL/726889"
 			(at 39.37 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -20121,7 +20143,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07100KL"
 			(at 39.37 97.79 90)
 			(hide yes)
 			(show_name no)

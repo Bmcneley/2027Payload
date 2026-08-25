@@ -767,8 +767,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Manufacturer"
+      "sort_asc": false,
+      "sort_field": "${EXCLUDE_FROM_BOM}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -816,7 +816,7 @@
         "uuid": "37affa37-02b2-480b-a268-414f730d2dc9"
       }
     ],
-    "used_designators": "R37,J12,#PWR42,#PWR84",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
